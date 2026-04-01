@@ -16,9 +16,6 @@ The dataset used in this project is highly imbalanced, containing transactions m
 3. **Model Selection**: Multiple models were tested, including Logistic Regression, Random Forest, and Gradient Boosting.
 4. **Evaluation Metrics**: Model performance was evaluated using metrics such as accuracy, precision, recall, and the F1 score, specifically focusing on the model’s ability to detect fraudulent transactions.
 
-## Model Performance
-The best-performing model achieved an accuracy of XX% and a recall of YY%, significantly outperforming traditional methods in detecting fraud. Detailed performance metrics can be found in the analysis notebook.
-
 ## Installation Instructions
 To install the required libraries, use the following command:
 ```bash
