@@ -16,21 +16,5 @@ The dataset used in this project is highly imbalanced, containing transactions m
 3. **Model Selection**: Multiple models were tested, including Logistic Regression, Random Forest, and Gradient Boosting.
 4. **Evaluation Metrics**: Model performance was evaluated using metrics such as accuracy, precision, recall, and the F1 score, specifically focusing on the model’s ability to detect fraudulent transactions.
 
-## Installation Instructions
-To install the required libraries, use the following command:
-```bash
-pip install -r requirements.txt
-```
-
-## Usage Guide
-- Load the dataset and preprocess it as described in the notebook.
-- Train the model using the command:
-```python
-python train_model.py
-```
-- Evaluate the model with:
-```python
-evaluate_model.py
-```
 For detailed usage, refer to the Credit_Fraud.ipynb notebook.
 
