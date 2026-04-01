@@ -37,5 +37,3 @@ evaluate_model.py
 ```
 For detailed usage, refer to the Credit_Fraud.ipynb notebook.
 
-## License
-This project is licensed under the MIT License.
